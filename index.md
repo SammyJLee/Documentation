@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Meetings Overview
+title: Introduction
 nav_order: 1
 description: "Working together to get it done"
 permalink: /
