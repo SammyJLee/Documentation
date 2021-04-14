@@ -1,8 +1,3 @@
----
-layout: default
-title: Meeting Agendas
-nav_order: 3
----
 
 ## Agendas
 
